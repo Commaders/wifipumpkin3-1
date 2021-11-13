@@ -1,4 +1,4 @@
-Please, before opening a new issue, please make sure that what you are about to report has not been reported already or is not included on the website FAQ list.
+, before opening a new issue, please make sure that what you are about to report has not been reported already or is not included on the website FAQ list.
 
 **Description of the bug or feature request**
 
